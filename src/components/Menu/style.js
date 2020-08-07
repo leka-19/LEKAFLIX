@@ -8,7 +8,7 @@ max-width:168px;
 max-width: 105px;
 }
 
-`;
+`; 
 
 export const MenuWrapper = styled.nav`
 width: 100%; 
@@ -27,7 +27,7 @@ align-items: center ;
 background-color: var(--black);
 border-bottom: 2px solid var(--primary); 
 
-@media(max-width:800px){
+@media(max-width:794px){
     height:40px;
     justify-content:center;
 }

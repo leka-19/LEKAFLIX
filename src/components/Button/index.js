@@ -10,11 +10,11 @@ padding: 16px 24px;
 text-decoration:none;
 transition:opacity .3s;
 &:hover,
-&:focus{
+&:focus{ 
     opacity:.5; 
-}
+} 
 
-@media(max-width:800px){
+@media(max-width:794px){
     border:0;
     border-radius:0;
     position: fixed;
