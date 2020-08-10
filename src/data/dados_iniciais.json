@@ -1,36 +1,36 @@
 {
   "categorias": [
     {
-      "titulo": "Livros",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "livros",
+      "link": "https://www.youtube.com/watch?v=kPkifMyP0Ho",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Além de gostar de livros eu também escrevo,click aqui para ler !",
+        "url": "https://medium.com/@lekacristhine2012"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "todos deveriam ler Flores para Algernon",
+          "url": "https://www.youtube.com/watch?v=k31O8QtbKPk"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Playlist do livro: TARTARUGAS ATÉ LÁ EMBAIXO",
+          "url": "https://www.youtube.com/watch?v=iwgZkCjdEkY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "LIVRO: O DIÁRIO DE ANNE FRANK",
+          "url": "https://www.youtube.com/watch?v=4S26j2mQiaQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Suspense e agonia em CAIXA DE PÁSSAROS 🐦",
+          "url": "https://www.youtube.com/watch?v=pA_VJkDt2CI"
         },
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "url": "https://www.youtube.com/watch?v=Iq9cmBL-v4E"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "titulo": "Criando Capas - Me Chame pelo seu nome",
           "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
